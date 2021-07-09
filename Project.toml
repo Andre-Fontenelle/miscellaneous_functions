@@ -1,4 +1,4 @@
-name = "miscellaneous_functions"
+name = "MiscFunctions"
 uuid = "c90f6904-fc34-4b13-98a4-de6ff92f82f6"
 authors = ["Andre-Fontenelle <andre.fontas@gmail.com>"]
 version = "0.1.0"
